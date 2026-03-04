@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "||static.twitchcdn.net/ads/",
+      "resourceTypes": ["image", "media", "xmlhttprequest", "sub_frame"]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "||video-edge.*.abs.hls.ttvnw.net/vods/*/ad-",
+      "resourceTypes": ["media"]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "||googlevideo.com/videoplayback/*/ad-",
+      "resourceTypes": ["media"]
+    }
+  }
+]
