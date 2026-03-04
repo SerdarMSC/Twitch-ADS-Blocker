@@ -8,6 +8,6 @@ Chrome'un en güncel Manifest V3 ve declarativeNetRequest API'sini kullanarak re
 
 Hiçbir kişisel veriniz toplanmaz – gizliliğinize tamamen saygılıdır.
 
-Hafif ve açık kaynak kodludur (istersen GitHub bağlantısı ekleyebilirsin).
+Hafif ve açık kaynak kodludur.
 
 Önemli Not: Reklam engelleme, sevdiğiniz yayıncıların gelirini etkileyebilir. Onları desteklemek için abone olmayı, Bit göndermeyi veya Twitch Turbo kullanmayı düşünebilirsiniz. Bu eklenti kişisel kullanım ve eğitim amaçlıdır.
